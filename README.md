@@ -1,11 +1,46 @@
-- 👋 Hi, I’m @nithin-sivakumar
-- 👀 I’m interested in Web Development, Audio and Video Editing, Coding, Internet of Things, and basically anything related to computers
-- 🌱 I’m currently learning Web Development (The Odin's Project), CS50's Introduction to Python, and a few other courses on CodeCademy
-- 💞️ I’m looking to collaborate on learning web development and working on projects together
+# Hi there! 👋 I'm Nithin Sivakumar
+
+Passionate Full Stack Developer | Ethical Hacker | Graphic Designer
+
+🌟 Welcome to my GitHub Profile! 🌟
+
+I'm a highly motivated and skilled Full Stack Developer with a passion for building cutting-edge web and mobile applications. With expertise in a wide range of technologies and a creative flair for design, I bring a unique blend of technical prowess and aesthetic sensibility to every project I undertake.
+
+## Skills
+
+- **Frontend Development:** HTML, CSS, JavaScript, React
+- **Backend Development:** Node.js, Express.js, MongoDB, SQL (MySQL), Redis
+- **Mobile Development:** React Native
+- **Other Skills:** Docker, Graphic Design, Video Editing, Photo Editing, Ethical Hacking, Python, C, C++, Java
+
+## Why Choose Me?
+
+- **Expertise:** Proficient in the MERN stack and React Native, capable of delivering robust, scalable applications.
+- **Design Finesse:** Skilled in graphic and UI/UX design, ensuring visually appealing and user-friendly applications.
+- **Security Conscious:** Ethical hacker background prioritizes security in every aspect of development.
+- **Collaborative Spirit:** Committed to fostering productive and positive working relationships.
+
+## Soft Skills
+
+- **Determination**
+- **Dedication**
+- **Perfectionist**
+- **Problem Solver**
+- **Communication**
+- **Time Management**
+- **Adaptability**
+
+## Let's Connect!
+
+- 🌐 Portfolio Website: [Your Portfolio](https://yourportfolio.com)
 - 📫 How to reach me - 
-      Discord - @hoaxmouse
-      Instagram - @nithixx.06
-      Email - nithinsgayathri@gmail.com
+      - 📧 Email: nithinsgayathri@gmail.com
+      - 📱 Instagram: @nithixx.06
+      - 📱 Discord: @hoaxmouse
+
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning and would love to build projects together with people on the same learning path.
+- 💞️ I’m looking to collaborate on MERN stack projects.
+
 
 <!---
 nithin-sivakumar/nithin-sivakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
