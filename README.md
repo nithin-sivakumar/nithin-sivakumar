@@ -9,7 +9,7 @@ I'm a highly motivated and skilled Full Stack Developer with a passion for build
 ## Skills
 
 - **Frontend Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Node.js, Express.js, MongoDB, SQL (MySQL), Redis
+- **Backend Development:** Node.js, Express.js, MongoDB, SQL (MySQL), Redis, FastAPI
 - **Mobile Development:** React Native
 - **Other Skills:** Docker, Graphic Design, Video Editing, Photo Editing, Ethical Hacking, Python, C, C++, Java
 
