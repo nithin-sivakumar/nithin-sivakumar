@@ -32,7 +32,7 @@ I'm a highly motivated and skilled Full Stack Developer with a passion for build
 
 ## Let's Connect!
 
-- 🌐 Portfolio Website: [Your Portfolio](https://yourportfolio.com)
+- 🌐 Portfolio Website: WIP
 - 📫 How to reach me - 
       - 📧 Email: nithinsgayathri@gmail.com
       - 📱 Instagram: @nithixx.06
